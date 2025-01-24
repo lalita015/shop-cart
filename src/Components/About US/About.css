@@ -1,0 +1,14 @@
+.About_dec {
+    text-align: justify;
+    font-size: 18px;
+}
+
+.About_dec span {
+    text-align: justify;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.About_us {
+    margin: 95px;
+}
